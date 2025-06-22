@@ -41,10 +41,11 @@ This approach works best for problems that involve:
 
 ## Included Problems in This Folder
 
-| File                  | Description                                                         |
-| --------------------- | ------------------------------------------------------------------- |
-| `comparing-arrays.js` | Checks if one array contains the **squares** of values in another   |
-| `anagram-checker.js`  | Checks if one string is an anagram of another using a lookup object |
+| File                             | Description                                             |
+| -------------------------------- | ------------------------------------------------------- |
+| `comparing-arrays.js`            | Checks if one array contains the **squares** of another |
+| `anagram-checker.js`             | Determines if one string is an **anagram** of another   |
+| `top-k-frequent-elements-347.js` | Returns the `k` most frequent elements from an array    |
 
 ---
 
