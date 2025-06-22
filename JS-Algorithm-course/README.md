@@ -1,45 +1,49 @@
-# CODELAB
+# 📘 JavaScript Algorithm Course
 
-Welcome to `CODELAB` — a growing, hands-on personal repository designed to deepen my skills in software development, data structures, and problem solving. This space is where I break down core patterns, build reusable logic, and document what I'm learning as I grow.
+This section is a structured, hands-on walkthrough of essential algorithm patterns in JavaScript — built for learning, retention, and technical interview prep.
 
----
+Each folder contains:
 
-## Current Focus: JavaScript Algorithm Course
-
-This section contains my structured walkthrough of essential algorithmic patterns in JavaScript. Each folder corresponds to a major category of problems frequently tested in technical interviews.
-
-### What's Included:
-- **Naive + Refactored solutions** for each problem
-- **Code comments** that explain the logic step-by-step
-- **`README.md`** files per pattern to break down:
-  - Pattern use cases
-  - Time complexity comparison
-  - Problem-solving framework
-  - Real-world scenarios
+- Naive + Refactored solutions
+- Clean, commented code
+- Pattern-specific `README.md` files explaining:
+  - Use cases
+  - Time/space complexity
+  - Real-world analogies
 
 ---
 
-## Algorithmic Patterns Covered:
+## Patterns Covered
 
-| # | Pattern Name                | Description                                                  |
-|---|-----------------------------|--------------------------------------------------------------|
-| 1 | Frequency Counter           | Compare values/characters using object maps (O(n))          |
-| 2 | Multiple Pointers           | Scan data from both ends for efficient traversal             |
-| 3 | Sliding Window              | Track subarrays/substrings dynamically                      |
-| 4 | Divide and Conquer         | Break problems down recursively for performance             |
-| 5 | Recursion                   | Use self-calling functions to solve nested or repetitive tasks |
-| 6 | Basic Sorting Algorithms    | Understand core sorting methods (bubble, insertion, etc.)    |
-| 7 | Searching Algorithms        | Implement linear and binary search variants                 |
-| 8 | Set/Map/Object Lookup       | Detect duplicates and track unique values                    |
-| 9 | Two Sum Variations          | Classic interview problem with multiple solutions            |
-|10 | Palindrome Checks           | Reverse or compare data to validate palindromes              |
+| #   | Pattern Name             | Description                                                 |
+| --- | ------------------------ | ----------------------------------------------------------- |
+| 1   | Frequency Counter        | Compare values/characters using object maps (O(n))          |
+| 2   | Multiple Pointers        | Efficient traversal from both ends of data                  |
+| 3   | Sliding Window           | Track subarrays/substrings dynamically                      |
+| 4   | Divide and Conquer       | Break problems down recursively                             |
+| 5   | Recursion                | Use self-calling functions to solve nested logic            |
+| 6   | Basic Sorting Algorithms | Understand bubble, insertion, and selection sort            |
+| 7   | Searching Algorithms     | Implement linear and binary search                          |
+| 8   | Set/Map/Object Lookup    | Detect duplicates, count uniques, etc.                      |
+| 9   | Two Sum Variations       | Classic array sum problems with multiple approaches         |
+| 10  | Palindrome Checks        | Reverse, mirror, and compare values to validate palindromes |
 
 ---
 
-## How to Use This Repo
-
-Clone and explore problems per section:
+## 🛠 How to Use
 
 ```bash
 git clone https://github.com/your-username/your-repo-name
-cd CODELAB/1-frequency-counter-approach/exercises
+cd js-algorithm-course/1-frequency-counter-approach
+```
+
+## Contribute
+
+Got any insights or a challenge you'd like to share?
+
+1. Fork the repo
+2. Add your problem or solution in the appropriate pattern folder
+3. Include comments or a short `README.md` if needed to explain your approach
+4. Create a Pull Request with a short note on what you're adding
+
+I’ll review and merge useful additions as CodeLab continues growing!
