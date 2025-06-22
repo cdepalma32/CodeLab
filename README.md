@@ -75,3 +75,5 @@ If you see something that could be improved, extended, or if you want to collabo
 - Share your thoughts or refinements
 
 Thanks for visiting!
+
+🔗 [My GitHub](https://github.com/cdepalma32) | 🌐 [Portfolio](https://crystal-depalma.com)
